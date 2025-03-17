@@ -8,7 +8,7 @@
 
 
 
-<h2 align="center"> Hello there! I'm Keerthan K 👨🏻‍💻</h2>
+<h1 align="center"> Hello there! I'm Keerthan K 👨🏻‍💻</h1>
   
 <img align="right" alt="Coding" width="350" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
 
