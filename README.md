@@ -4,13 +4,12 @@
 **keerthnn/keerthnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img  alt="Coding" width="1010" height = "300" src="assets/318301884-cfc8e6ce-df39-49b4-8ce7-6f540b9bf34f.gif">
 
 
 
 <h1 align="center"> Hello there! I'm Keerthan K 👨🏻‍💻</h1>
   
-<img align="right" alt="Coding" width="350" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA">
+<img align="right" alt="Coding" width="350" src="[https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I5N3Z1enJva213M21mcGRmNzUyYmlwdjdwN2UxbjQ0dnllbjhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif)">
 
 - 🧑🏻‍💻 I'm a Software Engineer.
 - 🕸️ Skilled in both frontend and backend development.
