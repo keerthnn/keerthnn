@@ -9,7 +9,7 @@
 
 <h1 align="center"> Hello there! I'm Keerthan K 👨🏻‍💻</h1>
   
-<img align="right" alt="Coding" width="350" src="[https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I5N3Z1enJva213M21mcGRmNzUyYmlwdjdwN2UxbjQ0dnllbjhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif)">
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2I5N3Z1enJva213M21mcGRmNzUyYmlwdjdwN2UxbjQ0dnllbjhhZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ov9jNziFTMfzSumAw/giphy.gif">
 
 - 🧑🏻‍💻 I'm a Software Engineer.
 - 🕸️ Skilled in both frontend and backend development.
